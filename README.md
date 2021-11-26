@@ -11,4 +11,4 @@ Repository for Interface Design
 
 
 # Aufgabe 03
-[#03 Aufgabe - 3. High-Fidelity Prototyping](https://xd.adobe.com/view/4792e448-2e06-4810-9b8a-a1a43f9279d7-12c1/?fullscreen&hints=off){:target="_blank"} <br>
+[#03 Aufgabe - 3. High-Fidelity Prototyping](https://xd.adobe.com/view/4792e448-2e06-4810-9b8a-a1a43f9279d7-12c1/?fullscreen&hints=off)<br>
