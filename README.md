@@ -15,4 +15,4 @@ Repository for Interface Design
 
 
 # Aufgabe 07
-[#07 Aufgabe - 7. Nutzertest Top Findings] (https://doanmaip.github.io/ifd/A7/IFD_Findings_A7.pdf) <br>
+[#07 Aufgabe - 7. Nutzertest Top Findings](https://doanmaip.github.io/ifd/A7/IFD_Findings_A7.pdf) <br>
