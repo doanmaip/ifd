@@ -12,3 +12,7 @@ Repository for Interface Design
 
 # Aufgabe 03
 [#03 Aufgabe - 3. High-Fidelity Prototyping + Leitfaden](https://xd.adobe.com/view/4792e448-2e06-4810-9b8a-a1a43f9279d7-12c1/?fullscreen&hints=off)<br>
+
+
+# Aufgabe 07
+[#07 Aufgabe - 7. Nutzertest Top Findings] (https://doanmaip.github.io/ifd/A7/IFD_Findings_A7.pdf) <br>
