@@ -27,5 +27,5 @@ Repository for Interface Design
 
 
 # Aufgabe 10
-[#10 Aufgabe - VUI Prototyp](https://xd.adobe.com/view/e1ed1ad8-68e4-4d12-ad30-0b0018069d1b-b4be/?hints=off) <br>
+[#10 Aufgabe - VUI Prototyp](https://xd.adobe.com/view/e1ed1ad8-68e4-4d12-ad30-0b0018069d1b-b4be/?hints=off) (Bei Fehlern der automatischen Zeitsteuerung muss der XD-Link durch "Str+R" neu aufgerufen werden) <br>
 [#10 Aufgabe - VUI Screencast](#) <br>
